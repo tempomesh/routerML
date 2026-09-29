@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.pt
+*.safetensors
+.venv/
+.env
+*.log
+*.db
+*.sqlite
+.DS_Store
+demo/proof_card.html
